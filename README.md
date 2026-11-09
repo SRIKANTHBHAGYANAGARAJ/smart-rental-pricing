@@ -217,11 +217,6 @@ make run-cleaner
 make run-publisher-api
 ```
 
-## Accessing the API
-
-- API documentation: http://localhost:8000/docs
-- Health check: http://localhost:8000/api/v1/health/
-- Listings endpoint: http://localhost:8000/api/v1/listings/
 
 ## Development Commands
 
